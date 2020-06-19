@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-MovieZone/static/css/main.3cab559b.chunk.css",
+    "main.js": "/React-MovieZone/static/js/main.7605a442.chunk.js",
+    "main.js.map": "/React-MovieZone/static/js/main.7605a442.chunk.js.map",
+    "runtime-main.js": "/React-MovieZone/static/js/runtime-main.6ba42ba0.js",
+    "runtime-main.js.map": "/React-MovieZone/static/js/runtime-main.6ba42ba0.js.map",
+    "static/js/2.cb8492dd.chunk.js": "/React-MovieZone/static/js/2.cb8492dd.chunk.js",
+    "static/js/2.cb8492dd.chunk.js.map": "/React-MovieZone/static/js/2.cb8492dd.chunk.js.map",
+    "index.html": "/React-MovieZone/index.html",
+    "precache-manifest.ee9bdf141946e787d85800f61c9d2cd2.js": "/React-MovieZone/precache-manifest.ee9bdf141946e787d85800f61c9d2cd2.js",
+    "service-worker.js": "/React-MovieZone/service-worker.js",
+    "static/css/main.3cab559b.chunk.css.map": "/React-MovieZone/static/css/main.3cab559b.chunk.css.map",
+    "static/js/2.cb8492dd.chunk.js.LICENSE.txt": "/React-MovieZone/static/js/2.cb8492dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ba42ba0.js",
+    "static/js/2.cb8492dd.chunk.js",
+    "static/css/main.3cab559b.chunk.css",
+    "static/js/main.7605a442.chunk.js"
+  ]
+}
